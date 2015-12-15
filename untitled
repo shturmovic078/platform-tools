@@ -1,0 +1,7 @@
+
+
+ruby android_galaxy_s3.rb;
+ruby android_galaxy_s4.rb;
+ruby android_galaxy_s5.rb;
+ruby iphone4S_url.rb;
+ruby iphone5_url.rb;
